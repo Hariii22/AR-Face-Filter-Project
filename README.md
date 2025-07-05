@@ -121,8 +121,5 @@ Feel free to contribute to this project by:
 2. Creating a feature branch
 3. Submitting a pull request
 
-## License
-[Specify your license here]
-
 ## Contact
-[Your contact information] 
+im.hareee@gmail.com
